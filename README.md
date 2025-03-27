@@ -21,7 +21,7 @@ Manually set up folders to correspond to the following example paths. These can 
 - **Optional Save Paths:** `SHRED/Datasets/Figures` and `SHRED/Datasets/Models`
 
 ### Step 2: Download Necessary Files
-- **Python Notebooks & .mat File:** Download `SHRED_Running_main.ipynb` and a suitable `.mat` file.
+- **Python Notebooks & .mat File:** Download `SHRED_Running_main.ipynb`. Navigate to *Data.md* to access a subject's raw data (`.mat` file).
 - **Supporting Scripts:** Download `functions.py`, `models.py`, and `processdata.py`.
 - Store the `.ipynb` and `.py` files in the `SHRED/Notebooks` directory and the `.mat` file in the designated data path.
 
