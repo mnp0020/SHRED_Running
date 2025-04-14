@@ -66,5 +66,6 @@ For major contributions or inquiries, contact the authors.
 - Megan Ebers, PhD ([mebers@uw.edu](mailto:mebers@uw.edu))
 - David Green ([dgreen74@uw.edu](mailto:dgreen74@uw.edu))
 - Jan Williams, MS — Original SHRED Development
+- Kat Steele, PhD — Supervision
 
 *For license details, refer to the LICENSE file in the repository.*
