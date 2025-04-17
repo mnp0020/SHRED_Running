@@ -65,7 +65,9 @@ For major contributions or inquiries, contact the authors.
 - Mackenzie Pitts, MS ([mnp0020@uw.edu](mailto:mnp0020@uw.edu)) — Contact
 - Megan Ebers, PhD ([mebers@uw.edu](mailto:mebers@uw.edu))
 - David Green ([dgreen74@uw.edu](mailto:dgreen74@uw.edu))
-- Jan Williams, MS — Original SHRED Development
+- Jan Williams, MS — Original SHRED development
+- J. Nathan Kutz, PhD — Supervision for original SHRED development
+- Cristine Agresta, PhD — Supervision
 - Kat Steele, PhD — Supervision
 
 *For license details, refer to the LICENSE file in the repository.*
